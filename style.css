@@ -1,0 +1,13 @@
+.input, .output {
+    width: 500px;
+    height: 100px;
+    background-color: antiquewhite;
+    font-size: 24px;
+    padding: 0 20px;
+}
+.output {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+}
